@@ -63,8 +63,11 @@
                 <a href="http://disabilitypride.org/apwd/"><img class="card-img-top" src="images/apwd_full.png" alt="Alliance for People With Disabilities Screenshot"/></a>
                 <div class="card-body">
                   <p class="card-text">The Alliance for People With Disabilities wanted a complete site overhaul. I worked with several designers, and made this site to their specifications.</p>
-                  <a href="http://disabilitypride.org/apwd/" class="btn btn-primary">View Site</a>
-                  <a href="https://github.com/omega128/itc210-theme" class="btn btn-primary">View Source</a>
+                </div>
+                <div class="rounded-bottom mdb-color lighten-3 text-center pt-3">
+                    <ul class="list-unstyled list-inline font-small">
+                        <li class="list-inline-item pr-2 white-text"><a href="http://disabilitypride.org/apwd/" class="btn btn-primary">View Site</a></li>
+                        <li class="list-inline-item pr-2 white-text"><a href="https://github.com/omega128/itc210-theme" class="btn btn-primary">View Source</a></li>
                 </div>
               </div>
               
@@ -74,8 +77,12 @@
                 <a href="http://kcchambers.dreamhosters.com/sites/harvestposse/index.php"><img class="card-img-top" src="images/harvest_full.png" alt="Harvest Posse Site Screenshot"/></a>
                 <div class="card-body">
                     <p class="card-text">The Harvest Posse site is an aggregator for Seattle-area farmers market information.</p>
-                    <a href="http://kcchambers.dreamhosters.com/sites/harvestposse/index.php" class="btn btn-primary">View Site</a>
-                    <a href="https://github.com/omega128/harvestposse" class="btn btn-primary">View Source</a>
+                </div>
+                <div class="rounded-bottom mdb-color lighten-3 text-center pt-3">
+                    <ul class="list-unstyled list-inline font-small">
+                        <li class="list-inline-item pr-2 white-text"><a href="http://kcchambers.dreamhosters.com/sites/harvestposse/index.php" class="btn btn-primary">View Site</a></li>
+                        <li class="list-inline-item pr-2 white-text"><a href="https://github.com/omega128/harvestposse" class="btn btn-primary">View Source</a></li>
+                    </ul>
                 </div>
               </div>
 
@@ -85,8 +92,12 @@
                 <a href="http://kcchambers.dreamhosters.com/sites/adventure/"><img class="card-img-top" src="images/minimal_full.png" alt="Minimal Adventure Screenshot"/></a>
                 <div class="card-body">              
                   <p class="card-text">Minimal Adventure! is a simple, online MUD (Multi-User Dungeon) using stick-figure drawings. I designed and created Minimal Adventure from the ground up, using MySQL, PHP, and Inkscape. It is free to play, and does not feature intrusive ads!</p>
-                  <a href="http://kcchambers.dreamhosters.com/sites/adventure/" class="btn btn-primary">View Site</a>
-                  <a href="https://github.com/omega128/min_adventure" class="btn btn-primary">View Source</a>
+                </div>
+                <div class="rounded-bottom mdb-color lighten-3 text-center pt-3">
+                    <ul class="list-unstyled list-inline font-small">
+                        <li class="list-inline-item pr-2 white-text"><a href="http://kcchambers.dreamhosters.com/sites/adventure/" class="btn btn-primary">View Site</a></li>
+                        <li class="list-inline-item pr-2 white-text"><a href="https://github.com/omega128/min_adventure" class="btn btn-primary">View Source</a></li>
+                    </ul>
                 </div>
               </div>
               
