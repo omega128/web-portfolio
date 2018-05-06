@@ -62,7 +62,7 @@
                 <div class="card-header">Alliance for People With Disabilities</div>
                 <a href="http://disabilitypride.org/apwd/"><img class="card-img-top" src="images/apwd_full.png" alt="Alliance for People With Disabilities Screenshot"/></a>
                 <div class="card-body">
-                  <p class="card-text">The Alliance for People With Disabilities wanted a complete site overhaul. I worked with several designers, and made this site to their specifications. It uses a custom wordpress template.</p>
+                  <p class="card-text">The Alliance for People With Disabilities wanted a complete site overhaul. I worked with several designers, and made this site to their specifications.</p>
                   <a href="http://disabilitypride.org/apwd/" class="btn btn-primary">View Site</a>
                   <a href="https://github.com/omega128/itc210-theme" class="btn btn-primary">View Source</a>
                 </div>
@@ -74,7 +74,6 @@
                 <a href="http://kcchambers.dreamhosters.com/sites/harvestposse/index.php"><img class="card-img-top" src="images/harvest_full.png" alt="Harvest Posse Site Screenshot"/></a>
                 <div class="card-body">
                     <p class="card-text">The Harvest Posse site is an aggregator for Seattle-area farmers market information.</p>
-                    <div class="alert alert-primary">This archived version does not have a functioning twitter feed.</div>
                     <a href="http://kcchambers.dreamhosters.com/sites/harvestposse/index.php" class="btn btn-primary">View Site</a>
                     <a href="https://github.com/omega128/harvestposse" class="btn btn-primary">View Source</a>
                 </div>
