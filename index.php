@@ -35,6 +35,8 @@
                   <li>Web Technologies: HTML5, CSS3, SQL, WordPress, CodeIgniter, Bootstrap</li>
                   <li>Office Tools: Photoshop, Illustrator, Word, Excel, PowerPoint, Access</li>
               </ul>
+
+            <p>Some of my past work is <a href="http://www.github.com/omega128">available on Github</a>.</p>
             </div>
           </div>          
         </div>
