@@ -50,8 +50,7 @@
             <a href="resume/kc_resume.pdf" class="btn btn-primary">PDF</a>
             <a href="resume/kc_resume.doc" class="btn btn-primary">DOC</a>
             <a href="resume/kc_resume.odt" class="btn btn-primary">ODT</a>
-            <a href="resume/kc_resume.html" class="btn btn-primary">HTML</a>
-            <a href="resume/kc_resume.txt" class="btn btn-primary">TXT</a>
+            <a href="resume/kc_resume.png" class="btn btn-primary">PNG</a>
           </div>
         </div>
 
