@@ -1,0 +1,45 @@
+﻿KRISTOPHER CHAMBERS
+PROGRAMMER ~ WEB DEVELOPER
+-------------------
+1625 Delphi Road SW, Olympia, WA  98512
+(360) 561-9177
+kristopher.chambers1@gmail.com
+http://www.kc-chambers.com
+
+PROFILE
+-------
+Recent Information Technology Programming graduate with proficiency in:
+Operating Systems: Linux, Windows, OS X
+Programming Languages: JavaScript, C#, Python, Java, PHP, Haskell
+Web Technologies: HTML5, CSS3, SQL, WordPress, CodeIgniter, Bootstrap
+Office Tools: Photoshop, Illustrator, Word, Excel, PowerPoint, Access
+
+Experience in website project management from development through delivery
+
+Effective in prioritizing, planning, coordinating, and managing workflow/projects to maximize productivity and efficiency, optimize use of time and resources, achieve critical deadlines, and meet aggressive performance goals
+
+Self-motivated team player equally effective in independent and collaborative roles.
+
+WORK EXPERIENCE
+---------------
+## Alliance for People With Disabilities ##
+Created and maintained development for website using WordPress, custom PHP and
+Javascript code while project team members focused on visual design
+
+## Capital Eclectic Merchants ##
+Designed layout and main website for small business, following industry accessiblity
+standards.
+
+## Jerry Chambers ##
+Created and supported financial data tracking and report engine for Saperston
+representative.
+
+EDUCATION
+---------
+Information Technology Programming Certificate, 2017
+Seattle Central College-Seattle, WA
+GPA: 3.92 / 4.0 scale
+
+Bachelor of Arts-Interdisciplinary; 2005
+The Evergreen State College-Olympia, WA
+
